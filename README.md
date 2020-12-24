@@ -361,6 +361,8 @@ def move_down(grid):
 
 ## Part 2. `2048.py`
 
+![Part 2 Starter Gif. LoL](https://media.giphy.com/media/jp7jSyjNNz2ansuOS8/giphy.gif)
+
 First, we import the logic.py file where we typed the logic of our game. Next, we type in the driver code.
 
 ```python
@@ -449,6 +451,8 @@ print(mat)
 ```
 
 ## Voila! You did it!
+
+![You Did It](https://media.giphy.com/media/3oz8xAFtqoOUUrsh7W/giphy.gif)
 
 ## Hack It!
 
